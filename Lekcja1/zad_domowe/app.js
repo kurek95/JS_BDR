@@ -1,0 +1,10 @@
+console.log('Ctrl + Shift + P', 'Terminal Komend');
+console.log('Ctrl + W', 'Zamknięcie aktywnego okna');
+console.log('Ctrl + Shift + L', 'zaznaczenie wszystkich ciągów/wyrazów');
+console.log('Ctrl + P', 'Wyszukiwanie plików w projekcie');
+console.log('Ctrl + Alt + strzałka w prawo', 'Otwieranie podziału ekranu (na prawo) tego pliku');
+console.log('Ctrl + Alt + strzałka w lewo', 'cofanie podziału ekranu (z prawej)');
+console.log('Alt (trzymając) + strzałka w górę/dół', 'Przenoszenie całej linii');
+console.log('Ctrl + H', 'Zamień zaznaczony tekst');
+console.log('Ctrl + Shift + T', 'Ponownie otwiera ostatni zamknięty plik');
+console.log('Ctrl + Shift + ~', 'Otwiera konsole');
