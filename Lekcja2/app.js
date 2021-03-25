@@ -95,7 +95,8 @@ console.log(a.repeat(10));
 /* Zadanie domowe
 Pobrać od użytkownika jedną liczbę (pobieranie poprzez funkcję promt) - const liczba = Number(prompt('podaj liczbę));
 po podaniu liczby należy wyświetlić 5 ciekaowstek na jej temat
-np. przy liczbie 5 jeżeli drabina będzie miała 5cm to odległośc do księżyca wyniesie x czyli będzie trzeba x drabin żeby dostać się do księżyca lub jeżeli pizza będzie mieć 5 cm promień to jej powierzchnia wyniesie xx
+np. przy liczbie 5 jeżeli drabina będzie miała 5cm to odległośc do księżyca wyniesie x czyli będzie trzeba x drabin żeby dostać się do księżyca
+lub jeżeli pizza będzie mieć 5 cm promień to jej powierzchnia wyniesie xx
 należy wziąć pod uwagę to, że ktoś może podać liczbę ujemną
 musi wystąpić instrukcja warunkowa if (czy jest ujemna czy dodatnia)
 wyświetlić w indexie - document.writeln('text);
